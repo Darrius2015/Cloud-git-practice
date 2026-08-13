@@ -1,3 +1,6 @@
 # Cloud-git-practice
 
-Making smalls to this text file. 
+Making small changes to this text file. 
+
+
+Going to update more changes on this file. 
